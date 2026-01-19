@@ -26,13 +26,13 @@ The project is built using **HTML, CSS, and JavaScript**, focusing on simplicity
 
 ## Project Structure
 
-res-q-link
-├── Readme.md
+res-q-link <br>
+├── Readme.md<br> 
 ├── app.js        
 ├── index.html         
 ├── logo.png        
 ├── server.js   
-├── task.md
+└── task.md
 
 ---
 
