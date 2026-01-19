@@ -26,9 +26,17 @@ The project is built using **HTML, CSS, and JavaScript**, focusing on simplicity
 
 ## Project Structure
 
+res-q-link
+├── Readme.md
+├── app.js        
+├── index.html         
+├── logo.png        
+├── server.js   
+├── task.md
+
 ---
 
-## 🧑‍💻 How to Run Locally
+## How to Run Locally
 
 - Clone the repository
    ```
