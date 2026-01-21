@@ -30,9 +30,8 @@ res-q-link <br>
 ├── Readme.md<br> 
 ├── app.js        
 ├── index.html         
-├── logo.png        
-├── server.js   
-└── task.md
+├── logo.png      
+└── server.js   
 
 ---
 
